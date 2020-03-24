@@ -5,3 +5,4 @@ Nancy Badillo
 n_badillo@csu.fullerton.edu
 
 main.swift contains the first 8 questions
+contentView.swift contains the swiftUI porition of the exam
